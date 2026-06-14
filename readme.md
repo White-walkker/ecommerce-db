@@ -119,10 +119,4 @@ Every index here has a documented reason.
 - Indexes on all foreign key columns
 - Indexes on columns used in WHERE and GROUP BY clauses
 
-## File Structure
-ecommerce-db/
-├── schema.sql      ← Table definitions with all constraints
-├── seed.sql        ← Realistic dummy data
-├── queries.sql     ← 7 business queries with comments
-├── indexes.sql     ← Indexes with documented reasoning
-└── README.md       ← This file
+
