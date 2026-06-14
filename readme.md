@@ -15,16 +15,6 @@ This covers everything from schema design to business intelligence queries — b
 - Added strategic indexes with documented reasoning for every single one
 - Seeded realistic data simulating 10 customers, 13 products, and 15 orders
 
-## Schema Design
-users
-└── orders
-└── users
-└── order_items
-└── products
-└── categories
-orders
-└── payments
-
 ### Table Overview
 
 | Table | Purpose | Key Columns |
