@@ -1,8 +1,5 @@
 # E-Commerce Order Management — MySQL Database
 
-![MySQL](https://img.shields.io/badge/MySQL-9.6-blue)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 A production-style relational database designed for an e-commerce platform.  
 This covers everything from schema design to business intelligence queries — built to demonstrate real-world database engineering skills.
